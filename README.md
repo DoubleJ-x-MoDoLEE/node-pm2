@@ -1,6 +1,9 @@
 ## PM2 연구
 
-PM2 Documentation
+NodeJS Cluster 모듈 (How to work)
+-> https://nodejs.org/api/cluster.html#cluster_how_it_works
+
+PM2 Documentation (NodeJS Cluster 구현 라이브러리)
 -> https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/
 
 NodeJS 서버를 운영하다보면 이유없이 죽어있는 경우가 있고 싱글 스레드 기반의 단일 프로세스로 운영되어 성능상 이슈가 발생할 수 있다.
